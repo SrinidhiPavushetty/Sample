@@ -1,0 +1,103 @@
+body{
+    background-color: white;
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width:1200px;
+    margin:auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.header{
+    padding: 5px 0px;
+}
+.logo{
+    width:250px;
+    height:80px;
+}
+.nav{
+    width:150px;
+    background-color: #128c7e;
+    text-align: center;
+    padding-top: 10px;
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 15px;
+}
+.main{
+    margin-top: 50px;
+}
+.main_1{
+    width:40%;
+    margin:auto;
+    padding:20px;
+    text-align: left;
+}
+.main_1 h2{
+    font-size: 35px;
+    font-weight:500;
+}
+.main_2{
+    width:fit-content;
+    margin:auto;
+}
+.ab{
+    width:300px;
+    height:auto;
+}
+.c{
+    font-size: 20px;;
+}
+.r{
+    font-size: 15px;
+}
+a{
+    display: block;
+    padding:10px;
+    color: #128c7e;
+    text-decoration: none;
+    font-weight:500;
+    font-size: 20px;;
+}
+.support{
+    width:30%;
+    margin:40px;
+    padding: 60px;
+    text-align: center;
+}
+.t{
+    width:400px;
+    height:400px;
+}
+.p{
+    font-weight: 600;
+    font-size: 40px;
+}
+.x{
+    font-size: 20px;
+}
+.o{
+    font-size: 18px;
+}
+.fg{
+    border: 1px solid rgb(64, 233, 245);
+    border-radius: 20px;
+    margin: 0px 450px;
+}
+.box{
+    margin-top: 80px;;
+    background-color: rgb(9, 10, 70);
+    color: white;
+    font-weight: 500;
+    padding: 80px;
+}
+.box h2{
+    font-size: 20px;
+}
+.box h5{
+    font-size: 20px;
+}
